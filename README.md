@@ -1,4 +1,4 @@
-# 3D Skeleton-Based Sport Action Recognition System via Deep Learning
+#  3D Skeleton-Based Sport Action Recognition System via Deep Learning
 This project is about processing and analyzing video data using various machine learning techniques. It primarily focuses on extracting frames from video files, transforming these frames, and evaluating different convolutional neural network (CNN) models.
 
 ## Project Structure
